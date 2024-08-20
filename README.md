@@ -54,4 +54,4 @@ Exit: Log out and return to the home screen.
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
 ## Acknowledgments
-This project was developed by Your Name. It's a simple simulation of an ATM system, designed for educational purposes.
+This project was developed by Parivesh singh negi. It's a simple simulation of an ATM system, designed for educational purposes.
